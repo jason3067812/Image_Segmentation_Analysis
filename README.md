@@ -44,7 +44,7 @@ First compare brightness and then set them into three level. Finally, compare th
 ![image](https://user-images.githubusercontent.com/56544982/143669900-6143bda7-0cf1-4b2c-97eb-ad9626a0502c.png)
 
 
-- Whole algorithm Flow chart:
+- Whole algorithm flow chart:
 
 ![image](https://user-images.githubusercontent.com/56544982/143669871-87f53746-273f-4519-a118-4ad24cc5f23b.png)
 
