@@ -37,11 +37,14 @@ This function can freely divide the image into blocks, rows, or columns and then
 
 ### My method
 
-First compare brightness and then set them into three level
+First compare brightness and then set them into three level. Then, compare the similarity.
+
+Brightness classification
 
 ![image](https://user-images.githubusercontent.com/56544982/143669900-6143bda7-0cf1-4b2c-97eb-ad9626a0502c.png)
 
-Then, compare the similarity
+
+Whole algorithm Flow chart
 
 ![image](https://user-images.githubusercontent.com/56544982/143669871-87f53746-273f-4519-a118-4ad24cc5f23b.png)
 
