@@ -1,4 +1,4 @@
-# Image_segmentation_analysis
+# Image segmentation analysis
 
 ## Abstract
 When the training data is insufficient, the AI model often has insufficient effect, so I want to make a post-processing algorithm to optimize this character recognition system.
