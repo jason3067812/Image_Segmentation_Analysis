@@ -37,7 +37,7 @@ This code can freely divide the image into blocks, rows, or columns and then com
 
 ### My method
 
-First compare brightness and then set them into three level. Then, compare the similarity.
+First compare brightness and then set them into three level. Finally, compare the similarity.
 
 - Brightness classification:
 
