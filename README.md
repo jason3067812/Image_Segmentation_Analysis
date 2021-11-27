@@ -22,7 +22,7 @@ This code can freely divide the image into blocks, rows, or columns and then com
 
 ![image](https://user-images.githubusercontent.com/56544982/143668338-29ed4278-5fd5-4b29-8f61-d69e12f92763.png)
 
-![image](https://user-images.githubusercontent.com/56544982/143668344-a06bc8b5-4f39-45aa-b65a-8ed53243cd75.png)
+![image](https://user-images.githubusercontent.com/56544982/143672410-d3edf6f1-6e4a-45f9-85c8-bba129cd8887.png)
 
 ## What next?
 
