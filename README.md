@@ -35,4 +35,17 @@ This function can freely divide the image into blocks, rows, or columns and then
 
 ![image](https://user-images.githubusercontent.com/56544982/143668371-53b4895f-fa0d-4bf3-a19c-9d8490b02316.png)
 
+### My method
+
+First compare brightness and then set them into three level
+
+![image](https://user-images.githubusercontent.com/56544982/143669900-6143bda7-0cf1-4b2c-97eb-ad9626a0502c.png)
+
+Then, compare the similarity
+
+![image](https://user-images.githubusercontent.com/56544982/143669871-87f53746-273f-4519-a118-4ad24cc5f23b.png)
+
+
+
+
 
