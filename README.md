@@ -20,9 +20,9 @@ This function can freely divide the image into blocks, rows, or columns and then
 ![image](https://user-images.githubusercontent.com/56544982/143668338-29ed4278-5fd5-4b29-8f61-d69e12f92763.png)
 ![image](https://user-images.githubusercontent.com/56544982/143668344-a06bc8b5-4f39-45aa-b65a-8ed53243cd75.png)
 
-##What next?
+## What next?
 
-###You can...
+### You can...
 1. comoare histogram
 
 ![image](https://user-images.githubusercontent.com/56544982/143668383-38367311-e909-4053-9e25-68c34882bed3.png)
