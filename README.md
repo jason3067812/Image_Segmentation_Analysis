@@ -1,10 +1,10 @@
 # Image_segmentation_analysis
 
 ## Abstract
-When the training data is insufficient, the AI model often has insufficient effect, so I want to make a post-processing algorithm to optimize the model prediction results.
+When the training data is insufficient, the AI model often has insufficient effect, so I want to make a post-processing algorithm to optimize this character recognition system.
 
 ## Introduction
-This function can freely divide the image into blocks, rows, or columns and then compare each partition.
+This code can freely divide the image into blocks, rows, or columns and then compare each partition.
 
 ## Requirement
 1. Python
