@@ -25,7 +25,7 @@ This code can freely divide the image into blocks, rows, or columns and then com
 
 ![image](https://user-images.githubusercontent.com/56544982/143672410-d3edf6f1-6e4a-45f9-85c8-bba129cd8887.png)
 
-## What next?
+## What's next?
 
 ### You can...
 1. Compare histogram
