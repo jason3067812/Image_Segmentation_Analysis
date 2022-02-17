@@ -28,27 +28,24 @@ This code can freely divide the image into blocks, rows, or columns and then com
 
 ### You can...
 1. Compare histogram
-<img src="images/cover.png" alt="Cover" width="50%"/>
-![image](https://user-images.githubusercontent.com/56544982/143668383-38367311-e909-4053-9e25-68c34882bed3.png)
+
+<img src="https://user-images.githubusercontent.com/56544982/143668383-38367311-e909-4053-9e25-68c34882bed3.png" alt="Cover" width="60%"/>
 
 2. Compare similarity
-<img src="images/cover.png" alt="Cover" width="50%"/>
-![image](https://user-images.githubusercontent.com/56544982/143668371-53b4895f-fa0d-4bf3-a19c-9d8490b02316.png)
+
+<img src="https://user-images.githubusercontent.com/56544982/143668371-53b4895f-fa0d-4bf3-a19c-9d8490b02316.png" alt="Cover" width="60%"/>
 
 ### My method
 
 First compare brightness and then set them into three level. Finally, compare the similarity.
 
 - Brightness classification:
-<img src="images/cover.png" alt="Cover" width="50%"/>
-![image](https://user-images.githubusercontent.com/56544982/143669900-6143bda7-0cf1-4b2c-97eb-ad9626a0502c.png)
 
+<img src="https://user-images.githubusercontent.com/56544982/143669900-6143bda7-0cf1-4b2c-97eb-ad9626a0502c.png" alt="Cover" width="60%"/>
 
 - Whole algorithm flow chart:
-<img src="images/cover.png" alt="Cover" width="50%"/>
-![image](https://user-images.githubusercontent.com/56544982/143669871-87f53746-273f-4519-a118-4ad24cc5f23b.png)
 
-
+<img src="https://user-images.githubusercontent.com/56544982/143669871-87f53746-273f-4519-a118-4ad24cc5f23b.png" alt="Cover" width="60%"/>
 
 
 
